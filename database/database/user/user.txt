@@ -1,0 +1,7 @@
+user
+12
+1
+D:\My\icode\database\database\user\user.txt
+id password create drop select delete insert update help use delete add 
+char 10 char 10 char 10 char 10 char 10 char 10 char 10 char 10 char 10 char 10 char 10 char 10 
+root root 1 1 1 1 1 1 1 1 1 1 
